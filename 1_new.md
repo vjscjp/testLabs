@@ -4,9 +4,8 @@ This lab will get you quickly up and running on Shipped.
 
 ## Sign into Shipped / Create an account on GitHub
 
-1. In the browser navigate to <a href="https://github.com/join" target="_blank">GitHub</a>.
-
-	 If you haven't yet created a User ID, click **Register** and follow the instructions.
+Pre-requirement is one Github Account, If you already have github account, You are ready to go for Shipped Your first Project.
+or Else You have to created a User Account in Github, for that go to any browser navigate to <a href="https://github.com/join" target="_blank">GitHub</a>, and register Your self. 
      
 You can use Shipped with any modern browser, but for optimal results, Chrome is recommended.
 
